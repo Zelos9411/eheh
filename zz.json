@@ -1,10 +1,10 @@
 {
-  "name": "zz",
+  "name": "Kviolet",
   "description": ":), on Enmity.",
   "version": "1.1",
-  "authors": [
+  "authors": Zelos [
     {
-      "name": "mortyick",
+      "name": "kasumi",
       "id": "705853948052897813"
     }
   ],
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.0,
-    "url": "https://zupimages.net/up/23/09/izs0.png",
+    "url": "https://zupimages.net/up/23/09/xpl3.png",
     "alpha": 1.0
   }
 }
